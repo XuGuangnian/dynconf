@@ -2,5 +2,10 @@
 name = "dynconf"
 version = "0.0.1"
 edition = "2024"
+description = "Dynamic configuration management"
+license = "MIT"
+repository = "https://github.com/XuGuangnian/dynconf"
+keywords = ["config", "configuration", "dynamic"]
+categories = ["configuration"]
 
 [dependencies]
